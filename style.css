@@ -1,5 +1,37 @@
 .did{
+    width: 1500px;
+    height: 500px;
+    border: 1px solid red;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.ded{
+    width: 400px;
+    height: 300px;
+    border: 1px solid blue;
+}
+.dad{
+    width: 400px;
+    height: 300px;
+    border: 1px solid blue;
+}
+.dod{
+    width: 400px;
+    height: 300px;
+    border: 1px solid blue;
+}
+.rid{
+    width: 1500px;
+    height: 700px;
+    border: 1px solid black ;
+}
+.red{
     width: 1000px;
     height: 300px;
-    border: 1px solid red;
+    border: 1px solid green;
+}
+.rad{
+    width: 500px;
+    height: 500px;
 }
